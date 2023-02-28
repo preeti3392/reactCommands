@@ -1,3 +1,5 @@
 npm uninstall -g react-native-cli
 
 npx react-native init MyReactNativeApp
+
+Inside folder > npx react-native run-android
